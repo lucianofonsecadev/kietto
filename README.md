@@ -17,7 +17,7 @@ Filtra ligações indesejadas, protege suas horas de sono e de estudo e traz um 
 
 </div>
 
-![Telas do Kietto](docs/prancha.webp)
+![Telas do Kietto](docs/kietto.gif)
 
 ## O que o Kietto faz
 
